@@ -1,0 +1,65 @@
+/** Body **/
+body{
+    background-color: rgb(116, 218, 246);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1, .build-story p, #studentId, #story{
+    color: purple;
+}
+.build-story h2{
+    color: rgb(193, 35, 87);
+}
+.display-story h2{
+    color: rgb(186, 36, 186);;
+}
+.build-story button{
+    color: rgb(116, 218, 246);
+}
+/** Create story buttons**/
+.build-story button{
+    background: rgb(193, 35, 87);
+    width: 105px;
+    height: 30px;
+    border: 1.4px solid rgb(193, 35, 87);
+    border-radius: 10px;
+}
+.build-story button:hover{
+    background: rgb(229, 39, 229);
+    color: #f8f8f8;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 1px 1px;
+    border: rgb(229, 39, 229);;
+    transition: .3s ease-in-out;
+}
+/** Show Story button**/
+#playback{
+    background: rgb(116, 218, 246);
+    width: 105px;
+    height: 30px;
+    border: 1.4px solid purple;
+    border-radius: 10px;
+    color: rgb(109, 7, 109);
+}
+#playback:hover{
+    background: purple;
+    color: #f8f8f8;
+    font-size: 14px;
+    transition: .3s ease-in-out;
+}
+/** Random Story button**/
+#random{
+    background: rgb(116, 218, 246);
+    width: 105px;
+    height: 30px;
+    border: 1.4px solid rgb(37, 160, 37);
+    border-radius: 10px;
+    color: rgb(37, 134, 37);
+}
+#random:hover{
+    background: rgb(37, 160, 37);
+    color: #f8f8f8;
+    font-size: 14px;
+    transition: .3s ease-in-out;
+}
