@@ -13,7 +13,7 @@ h1, .build-story p, #studentId, #story{
     color: rgb(193, 35, 87);
 }
 .display-story h2{
-    color: rgb(186, 36, 186);;
+    color: rgb(186, 36, 186);
 }
 .build-story button{
     color: rgb(116, 218, 246);
@@ -26,11 +26,39 @@ h1, .build-story p, #studentId, #story{
     border: 1.4px solid rgb(193, 35, 87);
     border-radius: 10px;
 }
-.build-story button:hover{
+/*noun1*/
+#noun1:hover{
     background: rgb(229, 39, 229);
     color: #f8f8f8;
-    text-shadow: rgba(0, 0, 0, 0.5) 0px 1px 1px;
     border: rgb(229, 39, 229);;
+    transition: .3s ease-in-out;
+}
+/*verb*/
+#verb:hover{
+    background: rgb(191, 191, 30);
+    color: #f8f8f8;
+    border: rgb(191, 191, 30);
+    transition: .3s ease-in-out;
+}
+/*adjective*/
+#adjective:hover{
+    background: rgb(68, 68, 240);
+    color: #f8f8f8;
+    border: rgb(68, 68, 240);
+    transition: .3s ease-in-out;
+}
+/*noun2*/
+#noun2:hover{
+    background: orange;
+    color: #f8f8f8;
+    border: orange;
+    transition: .3s ease-in-out;
+}
+/*setting*/
+#setting:hover{
+    background: rgb(235, 128, 146);
+    color: #f8f8f8;
+    border: rgb(235, 128, 146);
     transition: .3s ease-in-out;
 }
 /** Show Story button**/
