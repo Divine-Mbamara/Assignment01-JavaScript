@@ -5,10 +5,10 @@ Using the provided HTML, CSS, and JavaScript as a starting point, emulate the us
 of the popular children’s toy, the Mattel® ‘See ‘N’ Say Storymaker’. 
 
 ### LIVE DEMO
-You can view the live version of the project here: [Live Demo]()
+You can view the live version of the project here: [Live Demo](https://divine-mbamara.github.io/Assignment01-JavaScript/)
 
 ### PROJECT PREVIEW
-![Project Preview]()
+![Project Preview](./assignment1-javscript-preview)
 
 ### INSTRUCTIONS 
 1. Watch the short video at https://www.youtube.com/watch?v=gG8y_e6t0G4 (limegl0wstix, 
