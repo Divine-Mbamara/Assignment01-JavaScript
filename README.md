@@ -8,7 +8,7 @@ of the popular children’s toy, the Mattel® ‘See ‘N’ Say Storymaker’.
 You can view the live version of the project here: [Live Demo](https://divine-mbamara.github.io/Assignment01-JavaScript/)
 
 ### PROJECT PREVIEW
-![Project Preview](./assignment1-javscript-preview)
+![Project Preview](./assignment1-javscript-preview.png)
 
 ### INSTRUCTIONS 
 1. Watch the short video at https://www.youtube.com/watch?v=gG8y_e6t0G4 (limegl0wstix, 
